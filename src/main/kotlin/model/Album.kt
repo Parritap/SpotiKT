@@ -1,6 +1,5 @@
 package model
 
-class Album  {
-
+class Album (name : String, coverPath: String, year: String, artist: String, songList : ArrayList<Song>)  {
 
 }

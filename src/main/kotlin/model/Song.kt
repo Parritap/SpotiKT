@@ -1,4 +1,6 @@
 package model
 
-class Song {
+class Song (name : String, path: String, year: String) {
+
+
 }

@@ -1,4 +1,5 @@
 package model
 
-class MusicPlayer {
+class MusicPlayer (albumList : ArrayList<Album>, userList: ArrayList<User>) {
+
 }

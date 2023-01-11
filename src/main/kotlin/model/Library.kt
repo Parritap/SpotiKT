@@ -1,4 +1,4 @@
 package model
 
-class Library {
+class Library (playlistLists : ArrayList<Playlist>) {
 }

@@ -1,4 +1,4 @@
 package model
 
-class Artist {
+class Artist (name : String, albums: ArrayList<Album>){
 }
